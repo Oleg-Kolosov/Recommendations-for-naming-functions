@@ -32,12 +32,12 @@
 
 ##### Prefixes
 
-`is` `has` `can` `should` `_` `#` `on`
+`is` `has` `can` `should` `_` `#` `on`
 
 ##### Action verbs
 
-`display` `print``render`
-`remove``delete` `reset` `update`
-`sort` `validate` `compose` `init`
-`get``set` `calc`
-`fetch``handle` `bind` `apply` `post` `load`
+`display` `print` `render`
+`remove` `delete` `reset` `update`
+`sort` `validate` `compose` `init`
+`get` `set` `calc`
+`fetch` `handle` `bind` `apply` `post` `load`
